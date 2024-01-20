@@ -6,11 +6,10 @@
 
 ### A budding programmer who is eager to learan new tech stack in web development<br>
 
-- 👨‍🏭 I’m currently pursuing **B.Tech from Lovely Professional University** <br>
-- 🏫 I’m currently learning **Problem Solving And Web development** <br>
-- 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🤔 I’m looking for help with **Web Development and Graphic Designing**<br>
-- 🥅 2021 Goals: **Contribute new projects and learn new technologies** <br>
+- 👨‍🏭 I’m completed my **B.Tech from Lovely Professional University** <br>
+- 👨‍🏭 I’m currently working in **Tekion India Private Limited** <br>
+- 🏫 I’m continuously practicing **Problem Solving And Web development** <br>
+- 🥅 2024 Goals: **Contribute new projects and learn new technologies** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
